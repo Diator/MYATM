@@ -1,9 +1,0 @@
-{
-  "firebase": "myatm",
-  "public": ".",
-  "ignore": [
-    "firebase.json",
-    "**/.*",
-    "**/node_modules/**"
-  ]
-}
